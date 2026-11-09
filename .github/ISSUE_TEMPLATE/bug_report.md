@@ -12,4 +12,4 @@ assignees: ''
 **Minecraft / NeoForge version:**
 **Other mods installed:**
 **Crash log (if any):**
-**if new idea:**
+
